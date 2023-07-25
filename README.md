@@ -1,0 +1,2 @@
+$ node criar-sourcemap.js
+
